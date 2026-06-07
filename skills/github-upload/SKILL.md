@@ -26,6 +26,11 @@ Run these checks:
 - Check for large files (>50MB) that should use Git LFS
 - Check if `gh` CLI is installed and authenticated: `gh auth status`
 
+
+### Phase 0.5: Study Real-World Examples (MANDATORY)
+
+Before writing, clone and study the equivalent file or workflow from established open-source projects. Extract what real projects actually do — not what templates say they should do. Present findings before proceeding.
+
 ### Phase 1: Intention Gathering
 
 Ask these questions **one at a time**:

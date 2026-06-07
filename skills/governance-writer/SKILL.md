@@ -18,6 +18,11 @@ Do NOT write GOVERNANCE.md until you know:
 3. Whether an external entity (company, foundation) has authority
 </HARD-GATE>
 
+
+### Phase 0.5: Study Real-World Examples (MANDATORY)
+
+Before writing, clone and study the equivalent file or workflow from established open-source projects. Extract what real projects actually do — not what templates say they should do. Present findings before proceeding.
+
 ### Phase 1: Model Selection
 
 Ask **one at a time**:

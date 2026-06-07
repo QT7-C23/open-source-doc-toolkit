@@ -26,6 +26,11 @@ Pre-release (0.x): suggest ONLY Weblate (if multilingual). Skip everything else.
 Active (1.x+): suggest based on actual need. Be selective.
 Mature: suggest the full suite if appropriate. Still be selective.
 
+
+### Phase 0.5: Study Real-World Examples (MANDATORY)
+
+Before writing, clone and study the equivalent file or workflow from established open-source projects. Extract what real projects actually do — not what templates say they should do. Present findings before proceeding.
+
 ### Phase 1: Need Assessment
 
 Ask these questions **one at a time**:

@@ -28,6 +28,11 @@ Check:
 - Recent commit velocity (how fast things actually ship)
 - Any existing TODO.md, ROADMAP.md, or project board
 
+
+### Phase 0.5: Study Real-World Examples (MANDATORY)
+
+Before writing, clone and study the equivalent file or workflow from established open-source projects. Extract what real projects actually do — not what templates say they should do. Present findings before proceeding.
+
 ### Phase 1: Intention Gathering
 
 Ask **one at a time**:

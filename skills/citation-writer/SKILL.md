@@ -17,6 +17,11 @@ Skip if: this is a personal blog, a game mod, a config repo, or a learning proje
 Proceed if: this is a library, framework, tool, dataset, or algorithm that researchers might reference.
 </HARD-GATE>
 
+
+### Phase 0.5: Study Real-World Examples (MANDATORY)
+
+Before writing, clone and study the equivalent file or workflow from established open-source projects. Extract what real projects actually do — not what templates say they should do. Present findings before proceeding.
+
 ### Phase 1: Metadata Gathering
 
 Ask **one at a time**:

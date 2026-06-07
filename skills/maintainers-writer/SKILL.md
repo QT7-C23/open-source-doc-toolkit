@@ -20,6 +20,11 @@ Do NOT create MAINTAINERS.md if:
 If solo: "Maintained by @username" in README is sufficient.
 </HARD-GATE>
 
+
+### Phase 0.5: Study Real-World Examples (MANDATORY)
+
+Before writing, clone and study the equivalent file or workflow from established open-source projects. Extract what real projects actually do — not what templates say they should do. Present findings before proceeding.
+
 ### Phase 1: Single Question
 
 > "Who are the current maintainers, and what are their areas of responsibility?"

@@ -20,6 +20,11 @@ Do NOT write SUPPORT.md until you know:
 
 Don't list channels that aren't actually monitored. A dead Discord badge is worse than no badge.
 
+
+### Phase 0.5: Study Real-World Examples (MANDATORY)
+
+Before writing, clone and study the equivalent file or workflow from established open-source projects. Extract what real projects actually do — not what templates say they should do. Present findings before proceeding.
+
 ### Phase 1: Single Question
 
 > "What support channels do you actively monitor? Pick all that apply: A) GitHub Discussions, B) Discord/community chat, C) Stack Overflow tag, D) Email, E) Commercial/paid support, F) Documentation only"

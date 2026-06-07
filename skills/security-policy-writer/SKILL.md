@@ -20,6 +20,11 @@ Do NOT write a security policy until you have assessed:
 
 If answers are all "no" (e.g., a static site generator, a learning project), the policy can be minimal. If "yes" to any, it needs to be more thorough.
 
+
+### Phase 0.5: Study Real-World Examples (MANDATORY)
+
+Before writing, clone and study the equivalent file or workflow from established open-source projects. Extract what real projects actually do — not what templates say they should do. Present findings before proceeding.
+
 ### Phase 1: Intention Gathering
 
 Ask **one at a time**:

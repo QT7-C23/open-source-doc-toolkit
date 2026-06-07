@@ -24,6 +24,11 @@ Do NOT create a CoC until you confirm:
 
 A CoC without enforcement is worse than no CoC.
 
+
+### Phase 0.5: Study Real-World Examples (MANDATORY)
+
+Before writing, clone and study the equivalent file or workflow from established open-source projects. Extract what real projects actually do — not what templates say they should do. Present findings before proceeding.
+
 ### Phase 1: Single Question
 
 Ask this question **one at a time**:
