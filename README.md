@@ -2,8 +2,11 @@
   <h1>📚 Open Source Doc Toolkit</h1>
   <p><strong>14 Claude Code skills to write every document your open-source project needs — professionally, consistently, and without overthinking.</strong></p>
 
+  [![Stars](https://img.shields.io/github/stars/QT7-C23/open-source-doc-toolkit?style=social)](https://github.com/QT7-C23/open-source-doc-toolkit)
   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
   [![Skills](https://img.shields.io/badge/Skills-14-blue.svg)](#skills)
+
+  🌐 **English** | [中文](README_CN.md)
 </div>
 
 ## 🚀 Quick Start
