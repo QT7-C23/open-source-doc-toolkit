@@ -12,10 +12,12 @@
 ## 🚀 Quick Start
 
 ### 1. Install
-Copy the `skills/` folder to `~/.claude/skills/`:
+**One command:**
 ```bash
-cp -r skills/* ~/.claude/skills/
+npx skills add QT7-C23/open-source-doc-toolkit
 ```
+
+**Or manually:** copy the `skills/` folder to `~/.claude/skills/`
 
 ### 2. Use
 Just tell Claude what you need:

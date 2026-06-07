@@ -1,0 +1,24 @@
+{
+  "name": "open-source-doc-toolkit",
+  "version": "1.0.0",
+  "description": "14 Claude Code skills that write every document your open-source project needs — README to GOVERNANCE, professionally and consistently. 开源文档全家桶。",
+  "owner": {
+    "name": "Heptachron_Abyss"
+  },
+  "plugins": [
+    { "name": "readme-writer", "source": "./skills/readme-writer", "category": "documentation", "description": "Write professional README.md — platform-agnostic project landing page" },
+    { "name": "github-upload", "source": "./skills/github-upload", "category": "development", "description": "Standardized git init → .gitignore → README → push workflow" },
+    { "name": "contributing-writer", "source": "./skills/contributing-writer", "category": "documentation", "description": "Write CONTRIBUTING.md + PR templates following OSS best practices" },
+    { "name": "template-writer", "source": "./skills/template-writer", "category": "documentation", "description": "Write GitHub issue/PR YAML form templates with required field validation" },
+    { "name": "architecture-writer", "source": "./skills/architecture-writer", "category": "documentation", "description": "Write ARCHITECTURE.md following arc42 and C4 model best practices" },
+    { "name": "release-writer", "source": "./skills/release-writer", "category": "documentation", "description": "Write CHANGELOG.md + release notes following SemVer and Keep a Changelog" },
+    { "name": "roadmap-writer", "source": "./skills/roadmap-writer", "category": "documentation", "description": "Write honest ROADMAP.md with confidence levels" },
+    { "name": "coc-writer", "source": "./skills/coc-writer", "category": "community", "description": "Write CODE_OF_CONDUCT.md using Contributor Covenant 2.1" },
+    { "name": "security-policy-writer", "source": "./skills/security-policy-writer", "category": "security", "description": "Write SECURITY.md with vulnerability reporting and disclosure policy" },
+    { "name": "support-writer", "source": "./skills/support-writer", "category": "community", "description": "Write SUPPORT.md directing users to help channels" },
+    { "name": "maintainers-writer", "source": "./skills/maintainers-writer", "category": "community", "description": "Write MAINTAINERS.md documenting project leadership" },
+    { "name": "governance-writer", "source": "./skills/governance-writer", "category": "community", "description": "Write GOVERNANCE.md based on Minimum Viable Governance" },
+    { "name": "citation-writer", "source": "./skills/citation-writer", "category": "documentation", "description": "Write CITATION.cff for academic citation" },
+    { "name": "opensource-publish", "source": "./skills/opensource-publish", "category": "development", "description": "Publish to Weblate, Open Collective, Codecov, ReadTheDocs and more" }
+  ]
+}
