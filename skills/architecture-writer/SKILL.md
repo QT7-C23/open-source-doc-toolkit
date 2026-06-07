@@ -29,6 +29,11 @@ Run these checks:
 - Check for configuration files that reveal external dependencies (databases, APIs, queues)
 - Read any existing `CLAUDE.md` or `CONTEXT.md` for domain language
 
+
+### Phase 0.5: Study Real-World Examples (MANDATORY)
+
+Before writing, clone and study the equivalent file from a top-tier open source repo. Extract what real projects actually write — not what templates say they should write. Present findings before drafting.
+
 ### Phase 1: Complexity Assessment
 
 Ask **one at a time**:

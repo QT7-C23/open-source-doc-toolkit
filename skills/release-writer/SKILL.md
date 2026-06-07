@@ -36,6 +36,11 @@ Run these checks:
 - Check existing version tag format (`v1.0.0` vs `1.0.0`)
 - Check if there's a release config file (`.version-bump.json`, `release-please.yml`, etc.)
 
+
+### Phase 0.5: Study Real-World Examples (MANDATORY)
+
+Before writing, clone and study the equivalent file from a top-tier open source repo. Extract what real projects actually write — not what templates say they should write. Present findings before drafting.
+
 ### Phase 1: Change Classification
 
 Classify EVERY change. One change = one classification:

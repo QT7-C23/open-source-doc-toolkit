@@ -36,6 +36,35 @@ Run these checks:
 - Identify tech stack (package.json, pyproject.toml, go.mod, etc.)
 - Check for license file
 
+### Phase 0.5: Study Real-World Examples (MANDATORY — Do Not Skip)
+
+Before writing, study at least ONE successful README from a similar project type. Extract what works, not just "what sections they have."
+
+**Repository references to study (clone and grep structure):**
+
+| Project Type | Study This Repo | Key Takeaway |
+|-------------|-----------------|--------------|
+| **Tool/App** | `tonhowtf/omniget` | Problem-first framing, "The small things that add up" human touch, conversational section names |
+| **Library/Plugin** | `mattpocock/skills` | "Why These Exist" philosophy, categorized tree structure, Quickstart promises speed |
+| **AI/ML** | `AUTOMATIC1111/stable-diffusion-webui` | Feature-first layout, extensive install guides |
+| **Framework** | `vercel/next.js` | Clean install → quick tutorial → deep docs architecture |
+| **Monorepo** | `facebook/react` | Modular structure, links to per-package docs |
+
+**Patterns to extract from real READMEs:**
+
+1. **Problem-first framing** (OmniGet style): Open with "The problem this solves" — make the user feel understood before listing features
+2. **Conversational section names** (OmniGet style): "How it feels day-to-day" beats "User Experience". "The small things that add up" beats "Additional Features"
+3. **"Why These Exist" framing** (Matt Pocock style): For collections/toolkits, explain the philosophy before the catalog
+4. **Speed promise** (Matt Pocock style): "Quickstart (30-second setup)" — give a concrete time
+5. **Category buckets** (Matt Pocock style): For repos with 5+ items, organize by purpose, not alphabetically
+
+Run these checks:
+- `git clone --depth 1 <reference-repo> /tmp/ref-study && grep "^##" /tmp/ref-study/README.md` — extract section structure
+- Note which sections appear FIRST (not "what sections exist", but "what order")
+- Note the TONE: formal (Anthropic) vs human (OmniGet) vs problem-solver (Matt Pocock)
+- Identify 1-2 specific techniques to borrow for THIS project's README
+- Present findings to the user and get confirmation before drafting
+
 ### Phase 1: Audience & Genre Assessment
 
 Ask these questions **one at a time**. Never batch them.
